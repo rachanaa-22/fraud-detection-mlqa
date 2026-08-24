@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-A machine learning system that detects fraudulent credit card transactions using Random Forest and SMOTE oversampling to handle class imbalance.
+HI! This is a machine learning system that detects fraudulent credit card transactions using Random Forest and SMOTE oversampling to handle class imbalance.
 
 ## Results
 | Metric | Score |
